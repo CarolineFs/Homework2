@@ -1,11 +1,8 @@
 <html>
 	<body>
 		<se>
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
-			<w>Нужно
+            <speach role="Мама" sex="жен">
+						<w>Нужно
 				<ana lex="нужно" gr="ADV,praed="/>
 			</w>
 			<w>рассказать
@@ -27,12 +24,9 @@
 			<w>раньше
 				<ana lex="рано" gr="ADV=comp"/>
 			</w>.
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
-			<w>Ну
+			</speach>
+			<speach role="Бабушка" sex="жен">
+						<w>Ну
 				<ana lex="ну" gr="PART="/>
 			</w>, 
 
@@ -45,11 +39,8 @@
 			<w>жили
 				<ana lex="жить" gr="V,ipf,intr=praet,pl,indic"/>
 			</w>…
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
+			</speach>
+			<speach role="Мама" sex="жен">
 			<w>Что
 				<ana lex="что" gr="SPRO,sg,n,inan=acc"/>
 				<ana lex="что" gr="SPRO,sg,n,inan=nom"/>
@@ -60,23 +51,17 @@
 			<w>рассказывай
 				<ana lex="рассказывать" gr="V,ipf,tran=sg,imper,2p"/>
 			</w>.
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
+			</speach>
+			<speach role="Бабушка" sex="жен">
 			<w>Ну
 				<ana lex="ну" gr="PART="/>
 			</w>, 
 
 			<w>жили
 				<ana lex="жить" gr="V,ipf,intr=praet,pl,indic"/>
-			</w>...   
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
+			</w>... 
+            </speach>
+            <speach role="Мама" sex="жен">			
 			<w>Любые
 				<ana lex="любой" gr="APRO=nom,pl"/>
 				<ana lex="любой" gr="APRO=acc,pl,inan"/>
@@ -88,11 +73,8 @@
 				<ana lex="история" gr="S,f,inan=gen,sg"/>
 				<ana lex="история" gr="S,f,inan=nom,pl"/>
 			</w>. 
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
+			</speach>
+			<speach role="Бабушка" sex="жен">
 			<w>Раньше
 				<ana lex="рано" gr="ADV=comp"/>
 			</w>
@@ -190,11 +172,8 @@
 			<w>это
 				<ana lex="это" gr="PART="/>
 			</w>…
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
+			</speach>
+			<speach role="Мама" sex="жен">
 			<w>Нет
 				<ana lex="нет" gr="PART="/>
 			</w>, 
@@ -226,19 +205,15 @@
 			<w>жила
 				<ana lex="жить" gr="V,ipf,intr=praet,sg,indic,f"/>
 			</w>. 
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
+			</speach>
+			<speach role="Бабушка" sex="жен">
+			
 			<distinct form="Ээ">
 				<w>Ээ</w>/
 
 			</distinct>...
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<w>Как
 				<ana lex="как" gr="ADVPRO="/>
@@ -271,13 +246,10 @@
 			<w>раньше
 				<ana lex="рано" gr="ADV=comp"/>
 			</w>? 
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
+			</speach>
+			<speach role="Бабушка" sex="жен">
 			<distinct form="Детск">/
-</distinct>... 
+            </distinct>... 
 
 		</se>
 		<se>
@@ -292,11 +264,8 @@
 				<ana lex="это" gr="SPRO,sg,n,inan=acc"/>
 				<ana lex="это" gr="SPRO,sg,n,inan=nom"/>
 			</w>…
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
+			</speach>
+			<speach role="Мама" sex="жен">
 			<w>Ну
 				<ana lex="ну" gr="PART="/>
 			</w>, 
@@ -309,10 +278,8 @@
 				<ana lex="детство" gr="S,n,inan=acc,sg"/>
 				<ana lex="детство" gr="S,n,inan=nom,sg"/>
 			</w>. 
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
 			<w>Ну
 				<ana lex="ну" gr="PART="/>
@@ -439,10 +406,8 @@
 				<w>Ээ</w>/
 
 			</distinct>.. 
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<w>У
 				<ana lex="у" gr="PR="/>
@@ -450,13 +415,10 @@
 			<w>вас
 				<ana lex="вы" gr="SPRO,pl,2p=abl"/>
 				<ana lex="вы" gr="SPRO,pl,2p=acc"/>
-				<ana lex="вы" gr="SPRO,pl,2p=gen"/>
-			</w>?
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
+				<an
+			</speach>
+			<speach role="Бабушка" sex="жен">
+		
 			<distinct form="з">
 				<w>За
 					<ana lex="за" gr="PR="/>
@@ -571,19 +533,15 @@
 				</w>/
 
 			</distinct>...
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			
+			<speach role="Мама" sex="жен">
 
 			<w>Готовить
 				<ana lex="готовить" gr="V,ipf,tran=inf"/>
 			</w>? 
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
+			</speach>
+			<speach role="Бабушка" sex="жен">
 			<w>Кормить
 				<ana lex="кормить" gr="V,ipf,tran=inf"/>
 			</w>, 
@@ -697,10 +655,9 @@
 				</w>/
 
 			</distinct>… 
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			
+			<speach role="Мама" sex="жен">
 
 			<w>Ну
 				<ana lex="ну" gr="PART="/>
@@ -716,10 +673,8 @@
 				<ana lex="одноклассник" gr="S,m,anim=acc,pl"/>
 				<ana lex="одноклассник" gr="S,m,anim=gen,pl"/>
 			</w>.
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
 			<distinct form="Эм">
 				<w>Эм
@@ -936,10 +891,8 @@
 			<w>Дружила
 				<ana lex="дружить" gr="V,ipf,intr=praet,sg,indic,f"/>
 			</w>…
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<w>Ну
 				<ana lex="ну" gr="PART="/>
@@ -955,11 +908,8 @@
 				<ana lex="подруга" gr="S,f,anim=acc,pl"/>
 				<ana lex="подруга" gr="S,f,anim=gen,pl"/>
 			</w>. 
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
+			</speach>
+			<speach role="Бабушка" sex="жен">
 			<w>Они
 				<ana lex="они" gr="SPRO,pl=nom"/>
 			</w>... 
@@ -1259,10 +1209,8 @@
 			<w>ещё
 				<ana lex="еще" gr="ADV="/>
 			</w>? 
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<w>Куда-нибудь
 				<ana lex="куда-нибудь" gr="ADVPRO="/>
@@ -1289,10 +1237,8 @@
 			<w>ездили
 				<ana lex="ездить" gr="V,ipf,intr=praet,pl,indic"/>
 			</w>? 
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
 			<w>Ну
 				<ana lex="ну" gr="PART="/>
@@ -1584,11 +1530,9 @@
 				</w>/
 
 			</distinct>? 
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
+			</speach>
+			<speach role="Мама" sex="жен">
+		
 			<distinct form="Кк">
 				<w>Как
 					<ana lex="как" gr="ADVPRO="/>
@@ -1603,10 +1547,8 @@
 			<w>переезжала
 				<ana lex="переезжать" gr="V,ipf,tran=praet,sg,indic,f"/>
 			</w>? 
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
 			<w>Ну
 				<ana lex="ну" gr="PART="/>
@@ -1662,18 +1604,14 @@
 				<ana lex="этот" gr="APRO=acc,sg,n"/>
 				<ana lex="этот" gr="APRO=nom,sg,n"/>
 			</w>…
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<w>Куда
 				<ana lex="куда" gr="ADVPRO="/>
 			</w>?
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
 			<w>В
 				<ana lex="в" gr="PR="/>
@@ -1714,11 +1652,9 @@
 				<ana lex="все" gr="SPRO,pl=acc"/>
 				<ana lex="все" gr="SPRO,pl=nom"/>
 			</w>. 
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
+			</speach>
+			<speach role="Мама" sex="жен">
+			
 			<w>Ну
 				<ana lex="ну" gr="PART="/>
 			</w>
@@ -1729,10 +1665,8 @@
 			<w>расскажи
 				<ana lex="рассказать" gr="V,pf=sg,imper,2p"/>
 			</w>. 
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
 			<w>Ну
 				<ana lex="ну" gr="PART="/>
@@ -1753,10 +1687,8 @@
 			<w>стала
 				<ana lex="стать" gr="V,pf,intr=praet,sg,indic,f"/>
 			</w>…
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<w>Нет
 				<ana lex="нет" gr="PART="/>
@@ -1777,10 +1709,8 @@
 			<w>этом
 				<ana lex="это" gr="SPRO,sg,n,inan=abl"/>
 			</w>?
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
 			<w>А
 				<ana lex="а" gr="S,abbr=abl,pl"/>
@@ -1869,18 +1799,14 @@
 				</w>/
 
 			</distinct>... 
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<w>Агитаторы
 				<ana lex="агитатор" gr="S,m,anim=nom,pl"/>
 			</w>?
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
 			<w>Ну
 				<ana lex="ну" gr="PART="/>
@@ -2068,10 +1994,8 @@
 			<w>так
 				<ana lex="так" gr="ADVPRO="/>
 			</w>… 
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<w>Ну
 				<ana lex="ну" gr="PART="/>
@@ -2096,10 +2020,8 @@
 			<w>расскажи
 				<ana lex="рассказать" gr="V,pf=sg,imper,2p"/>
 			</w>?
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
 			<w>А
 				<ana lex="а" gr="S,abbr=abl,pl"/>
@@ -2115,10 +2037,8 @@
 				<ana lex="а" gr="S,abbr=nom,pl"/>
 				<ana lex="а" gr="S,abbr=nom,sg"/>
 			</w>?
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<w>Как
 				<ana lex="как" gr="ADVPRO="/>
@@ -2144,11 +2064,10 @@
 				</w>/
 
 			</distinct>? 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
+	
 			<distinct form="Ну">
 				<w>Ну
 					<ana lex="ну" gr="PART="/>
@@ -2263,10 +2182,8 @@
 			<w>могу
 				<ana lex="мочь" gr="V,ipf,intr=inpraes,sg,indic,1p"/>
 			</w>!
-
-			<w>Дедушка
-				<ana lex="дедушка" gr="S,m,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Дедушка" sex="жен">
 
 			<w>А
 				<ana lex="а" gr="CONJ="/>
@@ -2295,18 +2212,14 @@
 				<ana lex="человек" gr="S,m,anim=gen,pl"/>
 				<ana lex="человек" gr="S,m,anim=nom,sg"/>
 			</w>. 
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<w>Дальше
 				<ana lex="далеко" gr="ADV=comp"/>
 			</w>. 
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
 			<w>Ну
 				<ana lex="ну" gr="PART="/>
@@ -2408,10 +2321,8 @@
 			<w>то
 				<ana lex="то" gr="PART="/>
 			</w>. 
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<w>На
 				<ana lex="на" gr="PR="/>
@@ -2420,10 +2331,8 @@
 				<ana lex="работа" gr="S,f,inan=abl,sg"/>
 				<ana lex="работа" gr="S,f,inan=dat,sg"/>
 			</w>?
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
 			<w>Да
 				<ana lex="да" gr="PART="/>
@@ -2445,10 +2354,8 @@
 			<w>вообще
 				<ana lex="вообще" gr="ADV,parenth="/>
 			</w>…
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<w>Или
 				<ana lex="или" gr="CONJ="/>
@@ -2460,12 +2367,10 @@
 				<ana lex="учеба" gr="S,f,inan=abl,sg"/>
 				<ana lex="учеба" gr="S,f,inan=dat,sg"/>
 			</w>?
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
-
-			<w>Нет
+				<w>Нет
 				<ana lex="нет" gr="PART="/>
 			</w>, 
 
@@ -2687,10 +2592,8 @@
 				<ana lex="тот" gr="APRO=acc,sg,m,inan"/>
 				<ana lex="тот" gr="APRO=nom,sg,m"/>
 			</w>…
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<w>Под
 				<ana lex="под" gr="PR="/>
@@ -2699,10 +2602,8 @@
 				<ana lex="станок" gr="S,m,inan=acc,sg"/>
 				<ana lex="станок" gr="S,m,inan=nom,sg"/>
 			</w>? ...
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
 			<w>А
 				<ana lex="а" gr="CONJ="/>
@@ -2967,10 +2868,8 @@
 			<w>Затем
 				<ana lex="затем" gr="ADV="/>
 			</w>…
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<w>А
 				<ana lex="а" gr="CONJ="/>
@@ -2987,10 +2886,8 @@
 				<ana lex="год" gr="S,m,inan=gen,sg"/>
 				<ana lex="год" gr="S,m,inan=nom,pl"/>
 			</w>?
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
 			<w>А
 				<ana lex="а" gr="CONJ="/>
@@ -3036,10 +2933,8 @@
 				<ana lex="год" gr="S,m,inan=gen,sg"/>
 				<ana lex="год" gr="S,m,inan=nom,pl"/>
 			</w>.
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<distinct form="Ааа">
 				<w>Ааа
@@ -3066,10 +2961,8 @@
 				<ana lex="рабочий" gr="S,m,anim=dat,pl"/>
 				<ana lex="рабочий" gr="S,m,anim=ins,sg"/>
 			</w>?
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
 			<w>Вот
 				<ana lex="вот" gr="PART="/>
@@ -3103,10 +2996,8 @@
 				</w>/
 
 			</distinct>?
-
-			<w>Мама
-				<ana lex="мама" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Мама" sex="жен">
 
 			<w>Даже
 				<ana lex="даже" gr="PART="/>
@@ -3115,10 +3006,8 @@
 				<ana lex="рабочий" gr="S,m,anim=dat,pl"/>
 				<ana lex="рабочий" gr="S,m,anim=ins,sg"/>
 			</w>?
-
-			<w>Бабушка
-				<ana lex="бабушка" gr="S,f,anim=nom,sg"/>
-			</w>@ 
+			</speach>
+			<speach role="Бабушка" sex="жен">
 
 			<w>Ну
 				<ana lex="ну" gr="PART="/>
@@ -3380,6 +3269,9 @@
 				<ana lex="вот" gr="PART="/>
 			</w>.
 
+		</speach>
 		</se>
+		
 	</body>
 </html>
+
